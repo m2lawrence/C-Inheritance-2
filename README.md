@@ -1,4 +1,2 @@
-# C-Inheritance-2
-Reusing Existing Code with Inheritance 2.
-
-Inheritance2 is from a derived class. 
+C-Sharp-Inheritance-2
+Reusing Existing Code with Inheritance 2 from a derived class. 
